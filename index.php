@@ -1,7 +1,7 @@
 <?php
 header("Content-type: text/html; charset=utf-8");
 $_あべおくん = '(´⊙ω⊙`)';
-　
+
 _もつを食べる($_あべおくん);
 echo '<hr>';
 _無限にもつを食べる($_あべおくん);
